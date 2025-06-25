@@ -1,0 +1,11 @@
+ID,Name,DepartmentName,Salary
+,Jo,Engineering,55000.0
+,Al,HR,0.0
+,Li,Finance,-3000.0
+104.0,Amy,,45000.5
+105.0,Chris,Engineering,60000.0
+106.0,Robert,HR,48000.0
+107.0,Alice,Finance,51000.0
+108.0,Benjamin,Engineering,49000.0
+109.0,Daniel,HR,47000.0
+110.0,Sophia,Finance,52000.0
