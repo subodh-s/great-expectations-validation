@@ -15,7 +15,6 @@ data_source_name = "my_data_source"
 data_source = context.data_sources.add_pandas(name=data_source_name)
 
 # Define the Data Asset name
-# A dataframe Data Asset is used to group your Validation Results. For instance, if you have a data pipeline with three stages and you wanted the Validation Results for each stage to be grouped together, you would create a Data Asset with a unique name representing each stage.
 data_asset_name = "my_dataframe_data_asset"
 
 # Add a Data Asset to the Data Source
